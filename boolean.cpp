@@ -6,6 +6,12 @@
 using namespace std;
 //main begins here
 int main()
+
+
+
+//using namespace std;
+ //int main()
+>>>>>>> test
 >>>>>>> testing
 {
 int x;
