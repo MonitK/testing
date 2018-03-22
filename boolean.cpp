@@ -2,9 +2,9 @@
 <<<<<<< HEAD
 using namespace std;
 int main()
-=======
-using namespace std;
- int main()
+//=======
+//using namespace std;
+ //int main()
 >>>>>>> testing
 {
 int x;
