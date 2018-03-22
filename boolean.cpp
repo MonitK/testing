@@ -1,10 +1,11 @@
 #include<iostreatm
 <<<<<<< HEAD
+//
+//
+//
 using namespace std;
+//main begins here
 int main()
-=======
-using namespace std;
- int main()
 >>>>>>> testing
 {
 int x;
