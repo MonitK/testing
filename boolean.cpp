@@ -1,14 +1,14 @@
 #include<iostreatm
 <<<<<<< HEAD
 using namespace std;
- main()
+int main()
 =======
 using namespace std;
  int main()
 >>>>>>> testing
 {
 int x;
-x=10;
+x=20;
 bool b=true;
 if(x<10)
 {
